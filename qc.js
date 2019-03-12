@@ -15,9 +15,9 @@ $ui.render({
 		events: {
 			returned: function(sender) {
 				sender.blur();
-				sender.text = "";
 				$ui.loading(true);
-	            getRaw(sender.text);
+				getRaw(sender.text);
+				sender.text = "";
 			}	
 		}	
     },   
