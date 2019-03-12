@@ -1,5 +1,7 @@
 ## jsbox test
-* 安装：下载 [质控样查询](https://xteko.com/redir?name=质控样查询&url=https://raw.githubusercontent.com/lgxnas/myjsbox/master/qc.js)
+* 安装：`下载 [质控样查询](https://xteko.com/redir?name=质控样查询&url=https://raw.githubusercontent.com/lgxnas/myjsbox/master/qc.js&icon=icon_023.png&author=lgx)`
+
+示例：下载 [质控样查询](https://xteko.com/redir?name=质控样查询&url=https://raw.githubusercontent.com/lgxnas/myjsbox/master/qc.js&icon=icon_023.png&author=lgx)
 ### 链接格式说明
 * 链接使用 `https://xteko.com/redir `为前缀，请不要构造过长的链接，参数说明：
 * 必备参数:
