@@ -60,7 +60,8 @@ function insertItem(text) {
 
 function getRaw(keyword){
 	$http.get({
-		url: "https://raw.githubusercontent.com/lgxnas/getqcpy/master/zhikong.txt",
+		url: "https://gitee.com/suplxc/getqcpy/raw/master/zhikong.txt",
+//"https://raw.githubusercontent.com/lgxnas/getqcpy/master/zhikong.txt",
 		handler: function(resp){
 			$cache.set("raw",resp.data);
 			$ui.loading(false);
